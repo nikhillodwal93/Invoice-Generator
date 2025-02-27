@@ -44,7 +44,7 @@ const InvoiceModal = ({
           <div className="d-flex flex-row justify-content-between align-items-start bg-light w-100 p-4">
             <div className="w-100">
               <h4 className="fw-bold my-2">
-                {info.billFrom || "John Uberbacher"}
+                {info.billFrom || "Nikhil Lodwal"}
               </h4>
               <h6 className="fw-bold text-secondary mb-1">
                 Invoice Number: {info.invoiceNumber || ""}
