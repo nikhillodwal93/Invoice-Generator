@@ -11,14 +11,6 @@ A web application for generating invoices, built using React, provides an effici
 ● Optimized UI/UX for enhanced user experience, increasing engagement by 30%.
 
 
-# Installation
-
-```
-npm install
-
-npm start / npm run build
-```
-
 # To-Do
 - [x] Finish parsing data into Preview Modal
 
